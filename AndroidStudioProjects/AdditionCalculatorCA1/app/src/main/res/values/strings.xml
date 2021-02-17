@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AdditionCalculatorCA1</string>
+    <string name="txtNumber1">Number 1</string>
+    <string name="txtNumber2">Number 2</string>
+    <string name="lblResult">Result</string>
+    <string name="btnAdd">Calculate</string>
+    <color name="backgroundColor">#FF424242</color>
+    <string name="imgCalculator">Calculator Icon</string>
+</resources>
